@@ -11,3 +11,32 @@
 2025-07-17 17:07:52,763 - INFO - Interval: 60 seconds
 2025-07-17 17:07:52,763 - INFO - ==================================================
 2025-07-17 17:07:52,763 - INFO - Execution #1: Starting script /Users/yeswanth/workspace/python/replit/checker/commit_push_logs/git_push.sh
+2025-07-17 17:07:52,888 - ERROR - Execution #1: FAILED (return code: 128)
+2025-07-17 17:07:52,888 - ERROR - Error: ssh: connect to host github.com port 22: Connection refused
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ssh: connect to host github.com port 22: Connection refused
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2025-07-17 17:07:52,888 - INFO - Output: Inside the script !!!!
+[main ab1b634] Data commit
+ 3 files changed, 31 insertions(+)
+ create mode 100755 git_push.sh
+ create mode 100644 scheduler.log
+ rename data.json => z_01/data.json (100%)
+Start: 2025-07-17 05:07:52 PM IST
+End: 2025-07-17 05:07:52 PM IST
+2025-07-17 17:07:52,888 - WARNING - Script execution failed, but continuing...
+2025-07-17 17:08:39,723 - INFO - Received signal 2. Shutting down gracefully...
+2025-07-17 17:08:40,056 - INFO - Scheduler stopped.
+2025-07-17 17:08:40,056 - INFO - Total executions: 1
+2025-07-17 17:09:00,626 - INFO - ==================================================
+2025-07-17 17:09:00,626 - INFO - Shell Script Scheduler Started
+2025-07-17 17:09:00,626 - INFO - Script: /Users/yeswanth/workspace/python/replit/checker/commit_push_logs/git_push.sh
+2025-07-17 17:09:00,626 - INFO - Interval: 60 seconds
+2025-07-17 17:09:00,626 - INFO - ==================================================
+2025-07-17 17:09:00,626 - INFO - Execution #1: Starting script /Users/yeswanth/workspace/python/replit/checker/commit_push_logs/git_push.sh
