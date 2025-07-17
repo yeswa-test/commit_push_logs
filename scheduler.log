@@ -1,0 +1,13 @@
+2025-07-17 17:04:28,672 - INFO - ==================================================
+2025-07-17 17:04:28,672 - INFO - Shell Script Scheduler Started
+2025-07-17 17:04:28,672 - INFO - Script: /Users/yeswanth/workspace/python/replit/checker/git_push.sh
+2025-07-17 17:04:28,672 - INFO - Interval: 60 seconds
+2025-07-17 17:04:28,673 - INFO - ==================================================
+2025-07-17 17:04:28,673 - ERROR - Script is not executable: /Users/yeswanth/workspace/python/replit/checker/git_push.sh
+2025-07-17 17:04:28,673 - ERROR - Script validation failed. Exiting.
+2025-07-17 17:07:52,762 - INFO - ==================================================
+2025-07-17 17:07:52,763 - INFO - Shell Script Scheduler Started
+2025-07-17 17:07:52,763 - INFO - Script: /Users/yeswanth/workspace/python/replit/checker/commit_push_logs/git_push.sh
+2025-07-17 17:07:52,763 - INFO - Interval: 60 seconds
+2025-07-17 17:07:52,763 - INFO - ==================================================
+2025-07-17 17:07:52,763 - INFO - Execution #1: Starting script /Users/yeswanth/workspace/python/replit/checker/commit_push_logs/git_push.sh
